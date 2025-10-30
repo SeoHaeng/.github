@@ -36,5 +36,6 @@
 >- 달력에서 날짜 선택 후 **TourAPI 국문 관광정보** 연동 검색 결과에서 여행지 추가  
 >- 추가한 여행지를 지도에 표시해 **동선 효율적 설계**  
 >- 각 장소의 상세 정보를 확인하며 **맞춤형 도서 여행 일정** 손쉽게 구성 가능  
-
+<br>
 </aside>
+<img width="3072" height="1950" alt="Group 18" src="https://github.com/user-attachments/assets/49ec0d71-5696-4196-9af4-c5e4e43a3627" />
