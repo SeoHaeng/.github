@@ -4,7 +4,8 @@
 <br>
 
 <aside>
-<img width="3072" height="1734" alt="Group 1707482465 (1)" src="https://github.com/user-attachments/assets/5c1768a7-56fb-486e-a8ee-8bef01f9f656" />
+<img width="3072" height="1734" alt="Frame 1707482464 (2)" src="https://github.com/user-attachments/assets/ee204242-7a90-4afc-bdb6-ef63e31d3371" />
+
 
 
 ## 프로젝트 소개
